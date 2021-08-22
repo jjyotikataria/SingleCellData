@@ -2,7 +2,6 @@
 ## Input : Seurat annotated object
 ## Output : Heatmap of top 5 differentially expressed genes per cluster type in the sample
 
-
 library(Seurat)
 library(dplyr)
 
