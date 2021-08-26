@@ -22,16 +22,16 @@ final<-as.data.frame(tables[[i]])
 
 
 print(final)
-                   Var1 Sam1          Sam2            Sam3
-1               T cells  8898         5126            8898
-2              NK cells   338          300             338
-3             Monocytes    10            8              10
-4               B cells    15            5              15
-5  Pre-B cells CD34 Neg    25           64              25
-6                   BMs     2            7               2
-7  Pro-B cells CD34 Pos     2           NA               2
-8     Endothelial cells     1           NA               1
-9                  GMPs     1            3               1
-10      Dendritic cells     1            1               1
-11            HSC G-CSF    NA            4              NA
-12                 MEPs    NA            1              NA
+                   Var1   Sam1          Sam2            Sam3
+1               T cells   8898         5126            8898
+2              NK cells    338          300             338
+3             Monocytes     10            8              10
+4               B cells     15            5              15
+5  Pre-B cells CD34 Neg     25           64              25
+6                   BMs      2            7               2
+7  Pro-B cells CD34 Pos      2           NA               2
+8     Endothelial cells      1           NA               1
+9                  GMPs      1            3               1
+10      Dendritic cells      1            1               1
+11            HSC G-CSF     NA            4              NA
+12                 MEPs     NA            1              NA
