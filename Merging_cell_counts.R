@@ -22,7 +22,7 @@ final<-as.data.frame(tables[[i]])
 
 
 print(final)
-                   Var1 Sam1   Sam2   Sam3
+                   Var1 Sam1          Sam2            Sam3
 1               T cells  8898         5126            8898
 2              NK cells   338          300             338
 3             Monocytes    10            8              10
