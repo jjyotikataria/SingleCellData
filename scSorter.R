@@ -1,6 +1,9 @@
 ## Input: User subsetted filtered object
 ## Output: scSorter annotated Seurat object
+## https://cran.r-project.org/web/packages/scSorter/vignettes/scSorter.html
 
+library(Seurat)
+library(scSorter)
 
 time_zero <- readRDS("time_zero_filt_var.rds")  
 time_three <- readRDS("time_three_filt_var.rds")  
