@@ -22,3 +22,9 @@ pbmc <- RunPCA(pbmc, features = VariableFeatures(object = pbmc))
 png("merged_pca.png",width=3000,height=2000,res=400)
 DimPlot(pbmc, reduction = "pca")
 dev.off()
+
+
+## Colors
+colors8<-c("#7FC97F","#BEAED4","#FDC086","#FFFF99","#386CB0","#F0027F","#BF5B17","#666666")
+colors4<-c("#386CB0","#F0027F","#BF5B17","#666666)
+
