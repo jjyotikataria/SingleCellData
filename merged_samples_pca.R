@@ -4,7 +4,7 @@
 
 a<-readRDS("day1_subsetted_obj.rds")
 b<-readRDS("day2_subsetted_obj.rds")
-c<-readRDS("day3_GEX_subsetted_obj.rds")
+c<-readRDS("day3_subsetted_obj.rds")
 d<-readRDS("day4_subsetted_obj.rds")
 e<-readRDS("day5_subsetted_obj.rds")
 f<-readRDS("day6_subsetted_obj.rds")
